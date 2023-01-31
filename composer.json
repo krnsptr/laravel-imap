@@ -26,8 +26,9 @@
         "ext-mbstring": "*",
         "ext-iconv": "*",
         "ext-fileinfo": "*",
-        "webklex/php-imap": "^4.1.2",
-        "laravel/framework": ">=5.0.0"
+        "illuminate/console": ">=5.0.0",
+        "illuminate/support": ">=5.0.0",
+        "webklex/php-imap": "^4.1.2"
     },
     "autoload": {
         "psr-4": {
